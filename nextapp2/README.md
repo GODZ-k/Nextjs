@@ -38,6 +38,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 <!-- two way binding -->
 <!-- dynamic routing/App routing -->
-<!-- supresshydrationwarning : this is a attribute of body tag that block all the unnecessory warnings and errors  -->
-<!-- we can create layout.js file in every routing folders with page.jsx  -->
-<!-- data fetching via axios  -->

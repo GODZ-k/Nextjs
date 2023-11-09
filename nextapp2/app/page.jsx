@@ -1,4 +1,7 @@
 "use client"
+import Link from 'next/link'
+import React, { useEffect, useState } from 'react'
+
 
 // two way binding
 // import React, { useState } from 'react'
@@ -20,13 +23,14 @@
 
 // export default page
 
-import React from 'react'
 
 const page = () => {
+
   return (
 <>
+
 <h1>this is home page</h1>
-<a href="/Contact/">contact</a>
+<Link href="/Contact/" >contact</Link>
 </>  )
 }
 
