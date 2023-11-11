@@ -1,4 +1,3 @@
-import './globals.css'
 import NextTopLoader from 'nextjs-toploader';
 
 
